@@ -2,8 +2,8 @@
 sum = 0
 1.upto 10 do |i|
   sum += i
+  puts sum
 end
-puts sum
 
 
   
